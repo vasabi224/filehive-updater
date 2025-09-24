@@ -1,0 +1,28 @@
+{
+  "watched_folders": {
+    "C:/Users/Happy/Desktop/боты для тг/bot-uno": {
+      "repo_path": "C:/Users/Happy/Desktop/боты для тг/bot-uno",
+      "folder_name": "bot-uno",
+      "remote_url": "https://github.com/vasabi224/bots2.git",
+      "branch": "бот1",
+      "auto_push": true,
+      "changes": false
+    },
+    "C:/Users/Happy/Desktop/боты для тг/бот рассписания/bot_rasp": {
+      "repo_path": "C:/Users/Happy/Desktop/боты для тг/бот рассписания/bot_rasp",
+      "folder_name": "bot_rasp",
+      "remote_url": "https://github.com/vasabi224/bots2.git",
+      "branch": "бот2",
+      "auto_push": true,
+      "changes": false
+    },
+    "C:/Users/Happy/Desktop/боты для тг/bot_2": {
+      "repo_path": "C:/Users/Happy/Desktop/боты для тг/bot_2",
+      "folder_name": "bot_2",
+      "remote_url": "https://github.com/vasabi224/bots2.git",
+      "branch": "bot3",
+      "auto_push": true,
+      "changes": false
+    }
+  }
+}
